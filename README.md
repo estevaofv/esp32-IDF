@@ -3,7 +3,7 @@ ESP32 FreeRTOS C
 
 #Installation
 
-https://esp-idf.readthedocs.io/en/latest/get-started/index.html#setup-toolchain
+https://esp-idf.readthedocs.io/en/latest/get-started/index.html#setup-toolchain (for mac export path and idf-path in ~./bash_profile
 
 #Examples
 
@@ -15,6 +15,10 @@ https://github.com/whyengineer/esp32/
 
 https://esp-idf.readthedocs.io/en/latest/get-started/index.html#start-a-project
 
+#Flashing
+
+make menuconfig (Serial at /dev/tty.SLAB_USBtoUART)
+make flash
 
 #SD Card read
 
