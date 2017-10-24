@@ -1,8 +1,11 @@
 # esp32-IDF
 ESP32 FreeRTOS C
 
+#Installation
 
-#Resources (code examples in C/Freertos)
+https://esp-idf.readthedocs.io/en/latest/get-started/index.html#setup-toolchain
+
+#Examples
 
 https://esp-idf.readthedocs.io/en/latest/get-started/index.html
 https://github.com/whyengineer/
@@ -29,3 +32,7 @@ https://github.com/openwrt/bcm63xx-next/blob/master/sound/soc/codecs/wm8960.c (w
 #WAV
 
 https://github.com/whyengineer/esp32_webradio/blob/master/components/bsp/wm8978.c (aplay)
+
+#OTA
+
+https://github.com/tuanpmt/esp32-fota
