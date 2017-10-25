@@ -40,3 +40,8 @@ https://github.com/whyengineer/esp32_webradio/blob/master/components/bsp/wm8978.
 #OTA
 
 https://github.com/tuanpmt/esp32-fota
+
+#IDF-Component
+
+https://github.com/espressif/arduino-esp32/blob/master/docs/esp-idf_component.md
+
